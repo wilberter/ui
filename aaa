@@ -38,7 +38,7 @@ function Library:CreateWindow(windowname,windowinfo)
     Frame.BorderColor3 = Color3.fromRGB(20, 20, 20)
     Frame.BorderSizePixel = 0
     Frame.Position = UDim2.new(0.289808273, 0, 0.313227266, 0)
-    Frame.Size = UDim2.new(.125, .125)
+    Frame.Size = UDim2.new(.2, .2)
     
     FrameCorner.Name = "FrameCorner"
     FrameCorner.Parent = Frame
